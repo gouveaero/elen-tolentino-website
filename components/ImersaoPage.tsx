@@ -1,7 +1,192 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import HomeHeader from "@/components/HomeHeader";
 import HomeFooter from "@/components/HomeFooter";
+import { XIcon } from "@/components/icons";
 
+// ---------------------------------------------------------------------------
+// Lote configuration — all times in BRT (UTC-3)
+// ---------------------------------------------------------------------------
+const LOTES = [
+  {
+    id: 1,
+    inicio: new Date("2026-05-01T00:00:00-03:00"),
+    fim: new Date("2026-05-13T23:59:59-03:00"),
+    nome: "primeiro",
+    preco: "R$27",
+    precoNumerico: 27,
+  },
+  {
+    id: 2,
+    inicio: new Date("2026-05-14T00:00:00-03:00"),
+    fim: new Date("2026-05-20T23:59:59-03:00"),
+    nome: "segundo",
+    preco: "R$47",
+    precoNumerico: 47,
+  },
+  {
+    id: 3,
+    inicio: new Date("2026-05-21T00:00:00-03:00"),
+    fim: new Date("2026-05-23T08:00:00-03:00"),
+    nome: "terceiro",
+    preco: "R$67",
+    precoNumerico: 67,
+  },
+] as const;
+
+type Lote = (typeof LOTES)[number];
+
+function getActiveLote(now: Date): Lote {
+  if (now < LOTES[0].inicio) return LOTES[0];
+  if (now >= LOTES[2].fim) return LOTES[2];
+  for (const lote of LOTES) {
+    if (now >= lote.inicio && now < lote.fim) return lote;
+  }
+  return LOTES[2];
+}
+
+function getProgresso(lote: Lote, now: Date): number {
+  const inicio = lote.inicio.getTime();
+  const fim = lote.fim.getTime();
+  const nowMs = now.getTime();
+  if (nowMs <= inicio) return 50;
+  if (nowMs >= fim) return 98;
+  const totalDias = (fim - inicio) / 86400000;
+  const diasDecorridos = (nowMs - inicio) / 86400000;
+  return Math.min(50 + (diasDecorridos / totalDias) * 48, 98);
+}
+
+function getCountdownTarget(now: Date): Date | null {
+  if (now < LOTES[0].inicio) return LOTES[0].inicio;
+  if (now >= LOTES[2].fim) return null;
+  for (const lote of LOTES) {
+    if (now >= lote.inicio && now < lote.fim) return lote.fim;
+  }
+  return null;
+}
+
+function getCountdownLabel(now: Date): string {
+  if (now < LOTES[0].inicio) return "1° LOTE ABRE EM";
+  if (now >= LOTES[2].fim) return "INSCRIÇÕES ENCERRADAS";
+  for (const lote of LOTES) {
+    if (now >= lote.inicio && now < lote.fim)
+      return `${lote.id}° LOTE ENCERRA EM`;
+  }
+  return "INSCRIÇÕES ENCERRADAS";
+}
+
+function formatCountdown(target: Date, now: Date): string {
+  const diff = Math.max(0, target.getTime() - now.getTime());
+  const totalSeconds = Math.floor(diff / 1000);
+  const days = Math.floor(totalSeconds / 86400);
+  const hours = Math.floor((totalSeconds % 86400) / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+  return `${days}d · ${hours}h · ${minutes}min · ${seconds}seg`;
+}
+
+// ---------------------------------------------------------------------------
+// Modal
+// ---------------------------------------------------------------------------
+function ImersaoFormModal({
+  open,
+  onClose,
+  lote,
+}: {
+  open: boolean;
+  onClose: () => void;
+  lote: Lote;
+}) {
+  useEffect(() => {
+    if (!open) return;
+    const id = "ghl-form-embed-script";
+    if (document.getElementById(id)) return;
+    const s = document.createElement("script");
+    s.id = id;
+    s.src = "https://link.elentolentino.com.br/js/form_embed.js";
+    s.async = true;
+    document.body.appendChild(s);
+  }, [open]);
+
+  useEffect(() => {
+    if (open) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [open]);
+
+  if (!open) return null;
+
+  return (
+    <div
+      className="fixed inset-0 z-[99999] bg-black/70 flex items-center justify-center p-4"
+      onClick={onClose}
+    >
+      <div
+        className="bg-white rounded-2xl max-w-lg w-full p-6 md:p-8 relative animate-fade-in-up"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <button
+          onClick={onClose}
+          aria-label="Fechar"
+          className="absolute top-3 right-3 text-gray-500 hover:text-gray-900"
+        >
+          <XIcon className="w-6 h-6" />
+        </button>
+
+        <div className="text-center mb-4">
+          <p className="text-xs font-bold uppercase tracking-wider text-[#E10098]">
+            {lote.id}º Lote · {lote.preco}
+          </p>
+          <h3 className="text-2xl font-black text-gray-900 mt-1">
+            Imersão Diagnóstico Total
+          </h3>
+          <p className="text-sm text-gray-600 mt-2">
+            23 e 24 de Maio · Online ao vivo pelo Zoom · Vagas limitadas.
+            <br />
+            Preencha abaixo para garantir sua inscrição.
+          </p>
+        </div>
+
+        <iframe
+          src="https://link.elentolentino.com.br/widget/form/Utx6GMFEgD5LVtcOlVdj"
+          style={{
+            width: "100%",
+            height: "566px",
+            border: "none",
+            borderRadius: "10px",
+          }}
+          id="inline-Utx6GMFEgD5LVtcOlVdj"
+          data-form-id="Utx6GMFEgD5LVtcOlVdj"
+          title="Inscrição Imersão Diagnóstico Total"
+        />
+      </div>
+    </div>
+  );
+}
+
+// ---------------------------------------------------------------------------
+// Page
+// ---------------------------------------------------------------------------
 export default function ImersaoPage() {
+  const [now, setNow] = useState<Date>(() => new Date());
+  const [popupOpen, setPopupOpen] = useState(false);
+
+  useEffect(() => {
+    const id = setInterval(() => setNow(new Date()), 1000);
+    return () => clearInterval(id);
+  }, []);
+
+  const lote = getActiveLote(now);
+  const progresso = getProgresso(lote, now);
+  const countdownTarget = getCountdownTarget(now);
+  const countdownLabel = getCountdownLabel(now);
+
   return (
     <div className="min-h-screen font-sans bg-white text-gray-800">
       {/* ----------------------------------------------------------------
@@ -9,10 +194,16 @@ export default function ImersaoPage() {
       ---------------------------------------------------------------- */}
       <div className="bg-red-600 text-white text-center py-3 px-4">
         <p className="font-bold text-sm uppercase tracking-wider">
-          1° LOTE ABRE EM:{" "}
-          <span className="font-black text-xl mx-2">
-            00d · 06h · 40min · 10seg
-          </span>
+          {countdownTarget ? (
+            <>
+              {countdownLabel}:{" "}
+              <span className="font-black text-xl mx-2">
+                {formatCountdown(countdownTarget, now)}
+              </span>
+            </>
+          ) : (
+            <span className="font-black text-xl">{countdownLabel}</span>
+          )}
         </p>
       </div>
 
@@ -60,28 +251,31 @@ export default function ImersaoPage() {
               {/* Price highlight */}
               <div className="mb-4">
                 <p className="text-gray-500 text-sm line-through">De R$297</p>
-                <p className="text-4xl font-black text-[#E10098]">R$27</p>
+                <p className="text-4xl font-black text-[#E10098]">
+                  {lote.preco}
+                </p>
                 <p className="text-xs text-gray-500 uppercase tracking-wider">
-                  Ingressos do 1º Lote
+                  Ingressos do {lote.id}º Lote
                 </p>
               </div>
               {/* Progress bar */}
               <div className="bg-gray-200 rounded-full h-3 mb-2 w-full max-w-xs">
                 <div
-                  className="bg-[#E10098] h-3 rounded-full"
-                  style={{ width: "49%" }}
+                  className="bg-[#E10098] h-3 rounded-full transition-all duration-1000"
+                  style={{ width: `${progresso}%` }}
                 />
               </div>
               <p className="text-xs text-gray-500 mb-6">
-                49% DAS VAGAS DO PRIMEIRO LOTE PREENCHIDAS
+                {Math.floor(progresso)}% DAS VAGAS DO{" "}
+                {lote.nome.toUpperCase()} LOTE PREENCHIDAS
               </p>
               {/* CTA */}
-              <a
-                href="#inscrever"
-                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] hover:-translate-y-0.5 transition-all duration-300"
+              <button
+                onClick={() => setPopupOpen(true)}
+                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] hover:-translate-y-0.5 transition-all duration-300 cursor-pointer"
               >
-                Clique e Garanta sua vaga no 1º Lote
-              </a>
+                Clique e Garanta sua vaga no {lote.id}º Lote
+              </button>
             </div>
           </div>
         </section>
@@ -128,12 +322,12 @@ export default function ImersaoPage() {
               </div>
             </div>
             <div className="text-center mt-10">
-              <a
-                href="#inscrever"
-                className="inline-block px-8 py-4 bg-white text-[#E10098] font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-gray-100 transition-all duration-300"
+              <button
+                onClick={() => setPopupOpen(true)}
+                className="inline-block px-8 py-4 bg-white text-[#E10098] font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-gray-100 transition-all duration-300 cursor-pointer"
               >
                 CLIQUE AQUI PARA PARTICIPAR
-              </a>
+              </button>
             </div>
           </div>
         </section>
@@ -386,12 +580,12 @@ export default function ImersaoPage() {
               </div>
             </div>
             <div className="mt-10 text-center">
-              <a
-                href="#inscrever"
-                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] transition-all duration-300"
+              <button
+                onClick={() => setPopupOpen(true)}
+                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] transition-all duration-300 cursor-pointer"
               >
                 QUERO ME INSCREVER
-              </a>
+              </button>
             </div>
           </div>
         </section>
@@ -492,18 +686,18 @@ export default function ImersaoPage() {
               </p>
             </div>
             <div className="text-center">
-              <a
-                href="#inscrever"
-                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] transition-all duration-300"
+              <button
+                onClick={() => setPopupOpen(true)}
+                className="inline-block px-8 py-4 bg-[#E10098] text-white font-bold uppercase rounded-lg text-sm tracking-widest hover:bg-[#C60086] transition-all duration-300 cursor-pointer"
               >
                 QUERO PARTICIPAR
-              </a>
+              </button>
             </div>
           </div>
         </section>
 
         {/* ----------------------------------------------------------------
-            15. Enrollment / Price Box (id="inscrever")
+            15. Enrollment / Price Box
         ---------------------------------------------------------------- */}
         <section
           id="inscrever"
@@ -520,7 +714,7 @@ export default function ImersaoPage() {
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-yellow-300">✓</span> Certificado de
-                participação (7 horas);
+                participação;
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-yellow-300">✓</span> Acesso imediato a
@@ -536,30 +730,40 @@ export default function ImersaoPage() {
               </p>
               <p className="flex items-start gap-2">
                 <span className="text-yellow-300">✓</span> Comunidade oficial do
-                evento para networking e tira-dúvidas.
+                evento para networking e tira-dúvidas;
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-yellow-300">✓</span> Sorteio: Bolsa de
+                estudo para a Pós-Graduação em Estomatologia + presentes
+                especiais;
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-yellow-300">✓</span> 2ª Cadeira por R$1 —
+                convide um colega para participar com você.
               </p>
             </div>
             <div className="mb-2">
               <p className="text-white/60 text-lg line-through">De R$297</p>
-              <p className="text-6xl font-black text-yellow-300">R$27</p>
+              <p className="text-6xl font-black text-yellow-300">
+                {lote.preco}
+              </p>
             </div>
             <div className="bg-white/20 rounded-full h-4 mb-2 max-w-sm mx-auto">
               <div
-                className="bg-yellow-300 h-4 rounded-full"
-                style={{ width: "49%" }}
+                className="bg-yellow-300 h-4 rounded-full transition-all duration-1000"
+                style={{ width: `${progresso}%` }}
               />
             </div>
             <p className="text-white/70 text-sm mb-8">
-              49% DAS VAGAS DO PRIMEIRO LOTE PREENCHIDAS
+              {Math.floor(progresso)}% DAS VAGAS DO{" "}
+              {lote.nome.toUpperCase()} LOTE PREENCHIDAS
             </p>
-            <a
-              href="https://elentolentino.com.br/imersao-diagnostico-total/"
-              target="_blank"
-              rel="noopener"
-              className="inline-block px-10 py-5 bg-yellow-400 text-[#700040] font-black uppercase rounded-lg text-lg tracking-wider hover:bg-yellow-300 hover:-translate-y-0.5 transition-all duration-300"
+            <button
+              onClick={() => setPopupOpen(true)}
+              className="inline-block px-10 py-5 bg-yellow-400 text-[#700040] font-black uppercase rounded-lg text-lg tracking-wider hover:bg-yellow-300 hover:-translate-y-0.5 transition-all duration-300 cursor-pointer"
             >
               QUERO ME INSCREVER
-            </a>
+            </button>
           </div>
         </section>
 
@@ -644,6 +848,15 @@ export default function ImersaoPage() {
           20. Footer
       ---------------------------------------------------------------- */}
       <HomeFooter />
+
+      {/* ----------------------------------------------------------------
+          Modal — Form popup
+      ---------------------------------------------------------------- */}
+      <ImersaoFormModal
+        open={popupOpen}
+        onClose={() => setPopupOpen(false)}
+        lote={lote}
+      />
     </div>
   );
 }
