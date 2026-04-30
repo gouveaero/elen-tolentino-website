@@ -1,0 +1,3237 @@
+{
+  "title": "01 | Depoimentos Estomatoplay – Elen Tolentino",
+  "url": "https://elentolentino.com.br/depoimentoseplay/",
+  "fontLinks": [],
+  "metaFonts": [
+    "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "Poppins, sans-serif"
+  ],
+  "colorSamples": [
+    {
+      "tag": "BODY",
+      "class": "wp-singular page-template page-template-",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgb(255, 255, 255)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "",
+      "color": "rgb(204, 51, 102)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(204, 51, 102)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-button elementor-button-link e",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgb(255, 226, 26)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgb(217, 65, 98)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(206, 97, 111)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(206, 97, 111)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-inner-sectio",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(0, 0, 0)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "P",
+      "class": "",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-inner-sectio",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "P",
+      "class": "",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-inner-sectio",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-button elementor-button-link e",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgb(255, 226, 26)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-top-section ",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgb(227, 227, 227)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "H2",
+      "class": "elementor-heading-title elementor-size-d",
+      "color": "rgb(87, 26, 49)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(87, 26, 49)"
+    },
+    {
+      "tag": "SECTION",
+      "class": "elementor-section elementor-inner-sectio",
+      "color": "rgb(51, 51, 51)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(51, 51, 51)"
+    },
+    {
+      "tag": "A",
+      "class": "elementor-accordion-title",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgba(255, 255, 255, 0)",
+      "border": "rgb(255, 255, 255)"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://elentolentino.com.br/wp-content/uploads/2022/02/Logo-Estomatoplay-3.001-300x156.png",
+      "alt": "",
+      "width": 300,
+      "height": 156,
+      "loading": "auto",
+      "parentClasses": "elementor-widget-container",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://elentolentino.com.br/wp-content/uploads/2022/02/Thumb-certificado.001-1024x791.png",
+      "alt": "",
+      "width": 800,
+      "height": 617,
+      "loading": "auto",
+      "parentClasses": "elementor-widget-container",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://elentolentino.com.br/wp-content/uploads/2022/02/unnamed-1.png",
+      "alt": "",
+      "width": 512,
+      "height": 444,
+      "loading": "auto",
+      "parentClasses": "elementor-widget-container",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://elentolentino.com.br/wp-content/uploads/2022/02/PAGUE-COM-SEGURANCA.png",
+      "alt": "",
+      "width": 0,
+      "height": 0,
+      "loading": "lazy",
+      "parentClasses": "elementor-widget-container",
+      "position": "static",
+      "zIndex": "auto"
+    }
+  ],
+  "bgImages": [
+    {
+      "url": "linear-gradient(170deg, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 100%)",
+      "element": "E-PAGE-TRANSITION.e-page-transition--entered",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0% 0%"
+    },
+    {
+      "url": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 123, 156) 100%)",
+      "element": "SECTION.elementor-section",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0% 0%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.07.51.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.07.12.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.08.43.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.04.56.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.05.53.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.07.51.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.07.12.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.08.43.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.04.56.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.05.53.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/12/Captura-de-Tela-2022-12-09-as-01.07.51.png\")",
+      "element": "DIV.elementor-carousel-image",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.004.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.002.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.003.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.001.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.007.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.008.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.006.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/03/2profs-sites.005.png\")",
+      "element": "DIV.swiper-slide-bg",
+      "backgroundSize": "auto",
+      "backgroundPosition": "50% 50%"
+    },
+    {
+      "url": "linear-gradient(170deg, rgb(255, 118, 142) 0%, rgb(255, 176, 205) 100%)",
+      "element": "SECTION.elementor-section",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0% 0%"
+    },
+    {
+      "url": "url(\"https://elentolentino.com.br/wp-content/uploads/2022/02/header-curso-depilacao-profissional.jpg\")",
+      "element": "SECTION.elementor-section",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 100%"
+    }
+  ],
+  "svgs": [
+    {
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 100\" preserveAspectRatio=\"none\">\n\t<path class=\"elementor-shape-fill\" opacity=\"0.33\" d=\"M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" opacity=\"0.66\" d=\"M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" d=\"M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z\"></path>\n</svg>",
+      "parentClasses": "elementor-shape elementor-shape-bottom",
+      "width": null,
+      "height": null,
+      "viewBox": "0 0 1000 100"
+    },
+    {
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 100\" preserveAspectRatio=\"none\">\n\t<path class=\"elementor-shape-fill\" opacity=\"0.33\" d=\"M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" opacity=\"0.66\" d=\"M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" d=\"M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z\"></path>\n</svg>",
+      "parentClasses": "elementor-shape elementor-shape-bottom",
+      "width": null,
+      "height": null,
+      "viewBox": "0 0 1000 100"
+    },
+    {
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 100\" preserveAspectRatio=\"none\">\n\t<path class=\"elementor-shape-fill\" opacity=\"0.33\" d=\"M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" opacity=\"0.66\" d=\"M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z\"></path>\n\t<path class=\"elementor-shape-fill\" d=\"M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z\"></path>\n</svg>",
+      "parentClasses": "elementor-shape elementor-shape-top",
+      "width": null,
+      "height": null,
+      "viewBox": "0 0 1000 100"
+    },
+    {
+      "outerHTML": "<svg style=\"display: none;\" class=\"e-font-icon-svg-symbols\"></svg>",
+      "parentClasses": "wp-singular page-template page-template-elementor_canvas pag",
+      "width": null,
+      "height": null,
+      "viewBox": null
+    },
+    {
+      "outerHTML": "<svg style=\"display: none;\" class=\"e-font-icon-svg-symbols\"></svg>",
+      "parentClasses": "wp-singular page-template page-template-elementor_canvas pag",
+      "width": null,
+      "height": null,
+      "viewBox": null
+    }
+  ],
+  "videos": [],
+  "favicons": [
+    {
+      "href": "https://elentolentino.com.br/wp-content/uploads/2022/02/Thumb3-eplay.001-150x150.png",
+      "rel": "icon",
+      "sizes": "32x32"
+    },
+    {
+      "href": "https://elentolentino.com.br/wp-content/uploads/2022/02/Thumb3-eplay.001-300x300.png",
+      "rel": "icon",
+      "sizes": "192x192"
+    },
+    {
+      "href": "https://elentolentino.com.br/wp-content/uploads/2022/02/Thumb3-eplay.001-300x300.png",
+      "rel": "apple-touch-icon",
+      "sizes": ""
+    }
+  ],
+  "ogMeta": [],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/destination?id=AW-17655004889&cx=c&gtm=4e64t0",
+    "https://www.clarity.ms/tag/t9sri3hcg6?ref=gtm",
+    "https://www.googletagmanager.com/gtag/js?id=G-MJNWDF5V5Z&cx=c&gtm=4e64t0",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-THSFGHSP",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17440080115/?random=1777573010734&cv=11&fst=1777573010734&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je64t0v9226721181z89229729706za20gzb9229729706zd9229729706xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~116363097&u_w=1440&u_h=900&url=https%3A%2F%2Felentolentino.com.br%2Fdepoimentoseplay%2F&rcb=1&frm=0&tiba=01%20%7C%20Depoimentos%20Estomatoplay%20%E2%80%93%20Elen%20Tolentino&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=823184399.1777573010&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uamb=0&uam=&uap=macOS&uapv=26.4.1&uaw=0&_tu=BA&data=event%3Dgtag.config%3Bevent_id%3D1777573336858_17775739704082&rfmt=3&fmt=4",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17655004889/?random=1777573011264&cv=11&fst=1777573011264&bg=ffffff&guid=ON&async=1&gtm=45be64t0v9233820269z89229729706za20gzb9229729706zd9229729706xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~116363097&u_w=1440&u_h=900&url=https%3A%2F%2Felentolentino.com.br%2Fdepoimentoseplay%2F&rcb=17&label=OdWLCIf22JkbEPOBivxA&frm=0&tiba=01%20%7C%20Depoimentos%20Estomatoplay%20%E2%80%93%20Elen%20Tolentino&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=823184399.1777573010&uaa=arm&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uamb=0&uam=&uap=macOS&uapv=26.4.1&uaw=0&_tu=CA&rfmt=3&fmt=4"
+  ],
+  "globalLibs": {
+    "hasLenis": false,
+    "hasGSAP": false,
+    "hasLocomotive": false,
+    "hasjQuery": true,
+    "hasSwiper": true,
+    "hasElementor": true
+  },
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "O QUE OS ALUNOS ACHARAM DO CURSO?",
+      "styles": {
+        "fontSize": "30px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "42px",
+        "letterSpacing": "1px",
+        "color": "rgb(87, 26, 49)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1080px",
+        "height": "42px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "O que você vai aprender?",
+      "styles": {
+        "fontSize": "35px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "49px",
+        "letterSpacing": "1px",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "880px",
+        "height": "49px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "8 AULAS BÔNUS COM professores convidados",
+      "styles": {
+        "fontSize": "35px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "49px",
+        "letterSpacing": "1px",
+        "color": "rgb(0, 0, 0)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1060px",
+        "height": "49px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "CERTIFICADO DE ATUALIZAÇÃO INCLUSO",
+      "styles": {
+        "fontSize": "35px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "49px",
+        "letterSpacing": "1px",
+        "color": "rgb(255, 255, 255)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1040px",
+        "height": "49px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "assista gratuitamente por 7 dias!",
+      "styles": {
+        "fontSize": "35px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "49px",
+        "letterSpacing": "1px",
+        "color": "rgb(87, 26, 49)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "530px",
+        "height": "98px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Aproveite essa oportunidade!",
+      "styles": {
+        "fontSize": "40px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "56px",
+        "letterSpacing": "1px",
+        "color": "rgb(87, 26, 49)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1080px",
+        "height": "56px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Curso ESTOMATOPLAY + 5 bônus especiais",
+      "styles": {
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "33.6px",
+        "letterSpacing": "1px",
+        "color": "rgb(87, 26, 49)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1080px",
+        "height": "33.5938px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "de R$2.497,00 por:",
+      "styles": {
+        "fontSize": "25px",
+        "fontWeight": "700",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "25px",
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "line-through",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "840px",
+        "height": "25px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "12 x de 119,46*",
+      "styles": {
+        "fontSize": "60px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "84px",
+        "letterSpacing": "1.8px",
+        "color": "rgb(87, 26, 49)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "790px",
+        "height": "84px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Perguntas Frequentes:",
+      "styles": {
+        "fontSize": "40px",
+        "fontWeight": "800",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "56px",
+        "letterSpacing": "1px",
+        "color": "rgb(87, 26, 49)",
+        "textTransform": "uppercase",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1080px",
+        "height": "56px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(87, 26, 49)",
+        "borderTop": "0px none rgb(87, 26, 49)",
+        "borderBottom": "0px none rgb(87, 26, 49)",
+        "borderLeft": "0px none rgb(87, 26, 49)",
+        "borderRight": "0px none rgb(87, 26, 49)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Este produto é destinado a profissionais da área da saúde©  Estomatolovers - 2017  Todos os Direitos Reservados",
+      "styles": {
+        "fontSize": "21px",
+        "fontWeight": "300",
+        "fontFamily": "Poppins, sans-serif",
+        "lineHeight": "29px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1100px",
+        "height": "58px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    }
+  ],
+  "navLinks": [],
+  "dom": {
+    "tag": "body",
+    "classes": "wp-singular page-template page-template-elementor_canvas page page-id-1661 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor",
+    "id": null,
+    "text": null,
+    "href": null,
+    "imgData": null,
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "color": "rgb(51, 51, 51)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "width": "1440px",
+      "height": "6300px",
+      "display": "block",
+      "flexDirection": "row",
+      "border": "0px none rgb(51, 51, 51)",
+      "borderTop": "0px none rgb(51, 51, 51)",
+      "borderBottom": "0px none rgb(51, 51, 51)",
+      "borderLeft": "0px none rgb(51, 51, 51)",
+      "borderRight": "0px none rgb(51, 51, 51)",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "overflowY": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip"
+    },
+    "childCount": 43,
+    "children": [
+      {
+        "tag": "e-page-transition",
+        "classes": "e-page-transition--entered",
+        "id": null,
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgba(255, 255, 255, 0)",
+          "background": "rgba(255, 255, 255, 0) linear-gradient(170deg, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 100%) repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "alignItems": "center",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "fixed",
+          "zIndex": "10000",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 1,
+        "children": [
+          {
+            "tag": "style",
+            "classes": "",
+            "id": null,
+            "text": "e-page-transition{--preloader-fade-duration: .5s;--preloader-delay: calc( var( --e-page-transition-animation-duration, 0s ) + var( --e-preloader-delay, 0s ) );--page-transition-delay: var( --preloader-fade-duration );position:fixed;inset:0;display:grid;place-items:center;z-index:10000;background:#ff",
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "tag": "noscript",
+        "classes": "",
+        "id": null,
+        "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-THSFGHSP\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "display": "inline",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "div",
+        "classes": "elementor elementor-1661",
+        "id": null,
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "width": "1440px",
+          "height": "6300px",
+          "display": "block",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 13,
+        "children": [
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-9c9fb82 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgba(255, 255, 255, 0)",
+              "background": "rgba(255, 255, 255, 0) linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 123, 156) 100%) repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "50px 0px 150px",
+              "paddingTop": "50px",
+              "paddingBottom": "150px",
+              "width": "1440px",
+              "height": "376px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 3,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-background-overlay",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 0,
+                "children": []
+              },
+              {
+                "tag": "div",
+                "classes": "elementor-shape elementor-shape-bottom",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2361336",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 1,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-d213f12 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "50px 0px",
+              "paddingTop": "50px",
+              "paddingBottom": "50px",
+              "width": "1440px",
+              "height": "162px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3318e7",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 1,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-5207a33 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "width": "1440px",
+              "height": "327px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-997be43",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated e-swiper-container",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-35ba43b elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgb(217, 65, 98)",
+              "background": "rgb(217, 65, 98) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "50px 0px 150px",
+              "paddingTop": "50px",
+              "paddingBottom": "150px",
+              "width": "1440px",
+              "height": "1305px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 2,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-shape elementor-shape-bottom",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-62c5918",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-5514964 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "75px 0px 100px",
+              "paddingTop": "75px",
+              "paddingBottom": "100px",
+              "width": "1440px",
+              "height": "735px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2009a6e",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 1,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-46d102e elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgba(255, 255, 255, 0)",
+              "background": "rgba(255, 255, 255, 0) linear-gradient(170deg, rgb(255, 118, 142) 0%, rgb(255, 176, 205) 100%) repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "100px 0px",
+              "paddingTop": "100px",
+              "paddingBottom": "100px",
+              "width": "1440px",
+              "height": "1030.55px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e200432",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 3,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-99f3043 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "100px 0px 50px",
+              "paddingTop": "100px",
+              "paddingBottom": "50px",
+              "width": "1440px",
+              "height": "537.688px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 2,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f6e3076",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 1,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-83ac76f",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-7d4c734 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) url(\"https://elentolentino.com.br/wp-content/uploads/2022/02/header-curso-depilacao-profissional.jpg\") no-repeat scroll 50% 100% / cover padding-box border-box",
+              "padding": "100px 0px 50px",
+              "paddingTop": "100px",
+              "paddingBottom": "50px",
+              "width": "1440px",
+              "height": "843.594px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 2,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-shape elementor-shape-top",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "svg",
+                    "classes": "[object SVGAnimatedString]",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      },
+                      {
+                        "tag": "path",
+                        "classes": "[object SVGAnimatedString]",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa53265",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 4,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-5d44b35 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgb(227, 227, 227)",
+              "background": "rgb(227, 227, 227) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "50px 0px",
+              "paddingTop": "50px",
+              "paddingBottom": "50px",
+              "width": "1440px",
+              "height": "537.391px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5c12a2d",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-b177e47 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "50px 0px",
+              "paddingTop": "50px",
+              "paddingBottom": "50px",
+              "width": "1440px",
+              "height": "334.781px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed3e1ca",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-2dfb280 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "backgroundColor": "rgb(87, 26, 49)",
+              "background": "rgb(87, 26, 49) none repeat scroll 0% 0% / auto padding-box border-box",
+              "padding": "15px 0px 20px",
+              "paddingTop": "15px",
+              "paddingBottom": "20px",
+              "width": "1440px",
+              "height": "109px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-no",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-abf3050",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap elementor-element-populated",
+                        "id": null,
+                        "text": null,
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 2,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-6c9cb08 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "width": "1440px",
+              "height": "1px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s, transform 0.4s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-663f55d",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap",
+                        "id": null,
+                        "text": "",
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "classes": "elementor-section elementor-top-section elementor-element elementor-element-5b9b519 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+            "id": null,
+            "text": null,
+            "href": null,
+            "imgData": null,
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(51, 51, 51)",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "width": "1440px",
+              "height": "1px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(51, 51, 51)",
+              "borderTop": "0px none rgb(51, 51, 51)",
+              "borderBottom": "0px none rgb(51, 51, 51)",
+              "borderLeft": "0px none rgb(51, 51, 51)",
+              "borderRight": "0px none rgb(51, 51, 51)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "overflowY": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s, transform 0.4s",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "elementor-container elementor-column-gap-default",
+                "id": null,
+                "text": null,
+                "href": null,
+                "imgData": null,
+                "childCount": 1,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7cce69a",
+                    "id": null,
+                    "text": null,
+                    "href": null,
+                    "imgData": null,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "tag": "div",
+                        "classes": "elementor-widget-wrap",
+                        "id": null,
+                        "text": "",
+                        "href": null,
+                        "imgData": null,
+                        "childCount": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": null,
+        "text": "{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/hello-elementor\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofoll",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": null,
+        "text": "const lazyloadRunObserver = () => {\n\t\t\t\t\tconst lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );\n\t\t\t\t\tconst lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {\n\t\t\t\t\t\tentries.forEach( ( entry ) => {\n\t\t\t\t\t\t\tif ( entry.isIntersecting ) {\n\t\t\t\t\t\t",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "link",
+        "classes": "",
+        "id": "widget-divider-css",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "link",
+        "classes": "",
+        "id": "e-animation-slideInDown-css",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "link",
+        "classes": "",
+        "id": "e-animation-rotate-css",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "link",
+        "classes": "",
+        "id": "e-animation-fadeInDown-css",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "link",
+        "classes": "",
+        "id": "wpo_min-footer-4-css",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "jquery-ui-core-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-0-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "iframe",
+        "classes": "",
+        "id": null,
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "2px inset rgb(51, 51, 51)",
+          "borderTop": "2px inset rgb(51, 51, 51)",
+          "borderBottom": "2px inset rgb(51, 51, 51)",
+          "borderLeft": "2px inset rgb(51, 51, 51)",
+          "borderRight": "2px inset rgb(51, 51, 51)",
+          "overflow": "clip",
+          "overflowX": "clip",
+          "overflowY": "clip",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": null,
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-1-js-extra",
+        "text": "var php_data = {\"ac_settings\":{\"tracking_actid\":800301751,\"site_tracking_default\":1},\"user_email\":\"\"};",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-1-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "elementor-webpack-runtime-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "elementor-frontend-modules-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "elementor-frontend-js-before",
+        "text": "var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Compartilhar no Facebook\",\"shareOnTwitter\":\"Compartilhar no Twitter\",\"pinIt\":\"Fixar\",\"download\":\"Baixar\",\"downloadImage\":\"Baixar imagem\",\"fullscreen\":\"Tela cheia\",\"zoom\"",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "elementor-frontend-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "span",
+        "classes": "elementor-screen-only",
+        "id": "elementor-device-mode",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "margin": "-1px",
+          "marginTop": "-1px",
+          "marginRight": "-1px",
+          "marginBottom": "-1px",
+          "marginLeft": "-1px",
+          "width": "1px",
+          "height": "1px",
+          "display": "block",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "position": "absolute",
+          "top": "-160000px",
+          "right": "1441px",
+          "bottom": "160901px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "imagesloaded-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-7-js-extra",
+        "text": "var hostinger_reach_subscription_block_data = {\"endpoint\":\"https:\\/\\/elentolentino.com.br\\/wp-json\\/hostinger-reach\\/v1\\/contact\",\"nonce\":\"a0bb955ce2\",\"translations\":{\"thanks\":\"Obrigado por ser um assinante!\",\"error\":\"Ocorreu um erro. Tente novamente.\"}};",
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-7-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-8-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "instant-page-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wpo_min-footer-10-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "elementor-pro-webpack-runtime-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wp-hooks-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "tag": "script",
+        "classes": "",
+        "id": "wp-i18n-js",
+        "text": null,
+        "href": null,
+        "imgData": null,
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+          "flexDirection": "row",
+          "border": "0px none rgb(51, 51, 51)",
+          "borderTop": "0px none rgb(51, 51, 51)",
+          "borderBottom": "0px none rgb(51, 51, 51)",
+          "borderLeft": "0px none rgb(51, 51, 51)",
+          "borderRight": "0px none rgb(51, 51, 51)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 0,
+        "children": []
+      }
+    ]
+  }
+}
