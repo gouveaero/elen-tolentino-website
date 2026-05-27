@@ -56,6 +56,10 @@
   --color-brand-card: var(--brand-card);
   --color-brand-rose: var(--brand-rose);
   --color-brand-rose-deep: var(--brand-rose-deep);
+
+  /* Animations — used by Radix accordion in the consumidor funnel */
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
 }
 
 :root {
@@ -224,4 +228,99 @@
 
 .faq-content.open {
   max-height: 500px;
+}
+
+/* =========================================================
+   Consumidor funnel theme — scoped overrides for the
+   /pos-estomato-consumidor and /pre-checkout-consumidor
+   pages. Cloned 1:1 from the Lovable source so the funnel
+   keeps its own palette without leaking into the main site.
+   ========================================================= */
+.consumidor-theme {
+  --background: hsl(0 0% 100%);
+  --foreground: hsl(220 20% 15%);
+  --card: hsl(0 0% 100%);
+  --card-foreground: hsl(220 20% 15%);
+  --popover: hsl(0 0% 100%);
+  --popover-foreground: hsl(220 20% 15%);
+  --primary: hsl(338 85% 55%);
+  --primary-foreground: hsl(0 0% 100%);
+  --secondary: hsl(220 15% 95%);
+  --secondary-foreground: hsl(220 20% 15%);
+  --muted: hsl(220 15% 95%);
+  --muted-foreground: hsl(220 10% 45%);
+  --accent: hsl(338 90% 48%);
+  --accent-foreground: hsl(0 0% 100%);
+  --destructive: hsl(0 84.2% 60.2%);
+  --border: hsl(220 15% 90%);
+  --input: hsl(220 15% 90%);
+  --ring: hsl(338 85% 55%);
+  --radius: 0.75rem;
+  --font-heading: var(--font-montserrat);
+
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Container — matches Lovable's tailwind container config (padding 1.5rem, max 1200px) */
+.consumidor-theme .container {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+/* Dark gradient sections — used by Hero, Credibility, FinalCTA, Instructor, InfoBar */
+.consumidor-theme .section-dark {
+  background: linear-gradient(180deg, hsl(260 30% 12%), hsl(260 35% 8%));
+  color: hsl(0 0% 95%);
+}
+
+.consumidor-theme .section-dark-alt {
+  background: linear-gradient(180deg, hsl(260 25% 16%), hsl(260 30% 12%));
+  color: hsl(0 0% 95%);
+}
+
+/* Pink gradient text — Lovable signature highlight */
+.consumidor-theme .gradient-text {
+  background: linear-gradient(135deg, hsl(338 85% 60%), hsl(310 80% 55%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Green CTA button — primary conversion action */
+.consumidor-theme .btn-cta {
+  display: inline-block;
+  background: linear-gradient(135deg, hsl(140 60% 40%), hsl(140 70% 35%));
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 1rem 2.5rem;
+  border-radius: 0.75rem;
+  font-size: 1.125rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px hsl(140 60% 40% / 0.35);
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  text-align: center;
+}
+
+.consumidor-theme .btn-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px hsl(140 60% 40% / 0.5);
+}
+
+/* Accordion keyframes — Radix sets --radix-accordion-content-height at runtime.
+   Defined at root level so Tailwind's animate-accordion-* utilities resolve. */
+@keyframes accordion-down {
+  from { height: 0; }
+  to { height: var(--radix-accordion-content-height); }
+}
+@keyframes accordion-up {
+  from { height: var(--radix-accordion-content-height); }
+  to { height: 0; }
 }
